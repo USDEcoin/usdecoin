@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[usdecoin.qt-translation-010]
+file_filter = src/qt/locale/usdecoin_<lang>.ts
+source_file = src/qt/locale/usdecoin_en.ts
+source_lang = en

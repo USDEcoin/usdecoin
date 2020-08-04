@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=usdecoin
+Comment=usdecoin P2P Cryptocurrency
+Comment[fr]=usdecoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=usdecoin, eşten eşe kriptografik sanal para birimi
+Exec=usdecoin-qt %u
+Terminal=false
+Type=Application
+Icon=usdecoin128
+MimeType=x-scheme-handler/usdecoin;
+Categories=Office;Finance;
