@@ -1,7 +1,7 @@
 usdecoin Core staging tree 1.0.0
 ===============================
 
-https://usdecoin.one
+https://usd-e.com
 
 
 What is usdecoin ?
@@ -14,7 +14,7 @@ are carried out collectively by the network. usdecoin Core is the name of the op
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Dash Core software, see https://usdecoin.one.
+the Dash Core software, see https://usd-e.com
 
 
 License
